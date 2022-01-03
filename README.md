@@ -6,11 +6,12 @@ Solutions to Leetcode problems
 ## General
 |   #   |                                Title                                |                                         Solution                                        |   Complexity   | Difficulty | Algorithm |
 |:-----:|:-------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:--------------:|:----------:|------|
-|  35  | [Pallindrome Number](https://leetcode.com/problems/palindrome-number/) | [C](https://github.com/redefiningcuriosity/leetcode/blob/main/C/9_Palindrome_Number.c) | Time: O(n)<br />Space: O(1) |    Easy    |     |
+|  9  | [Pallindrome Number](https://leetcode.com/problems/palindrome-number/) | [C](https://github.com/redefiningcuriosity/leetcode/blob/main/C/9_Palindrome_Number.c) | Time: O(n)<br />Space: O(1) |    Easy    |     |
 
 ## Arrays
 |   #   |                                Title                                |                                         Solution                                        |   Complexity   | Difficulty | Algorithm |
 |:-----:|:-------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:--------------:|:----------:|------|
+|  14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C](https://github.com/redefiningcuriosity/leetcode/blob/main/C/14_Longest_Common_Prefix.c) | Time: O(n)<br />Space: O(n) |    Easy    |     |
 |  35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C](https://github.com/redefiningcuriosity/leetcode/blob/main/C/35_search_insert_position.c) | Time: O(log n)<br />Space: O(1) |    Easy    |  Binary Search   |
 |  118  | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) | [C](https://github.com/redefiningcuriosity/leetcode/blob/main/C/118_Pascals_triangle.c) | Time: O(R*C)<br />Space: O(R*C) |    Easy    |      |
 |  278  | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [C](https://github.com/redefiningcuriosity/leetcode/blob/main/C/278_first_bad_version.c) | Time: O(log n)<br />Space: O(1) |    Easy    |   Binary Search   |
