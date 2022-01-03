@@ -3,6 +3,11 @@ Solutions to Leetcode problems
 
 ## Data Structures
 
+## General
+|   #   |                                Title                                |                                         Solution                                        |   Complexity   | Difficulty | Algorithm |
+|:-----:|:-------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:--------------:|:----------:|------|
+|  35  | [Pallindrome Number](https://leetcode.com/problems/palindrome-number/) | [C](https://github.com/redefiningcuriosity/leetcode/blob/main/C/9_Palindrome_Number.c) | Time: O(n)<br />Space: O(1) |    Easy    |     |
+
 ## Arrays
 |   #   |                                Title                                |                                         Solution                                        |   Complexity   | Difficulty | Algorithm |
 |:-----:|:-------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:--------------:|:----------:|------|
