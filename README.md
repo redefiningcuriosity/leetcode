@@ -11,6 +11,7 @@ Solutions to Leetcode problems
 ## Arrays
 |   #   |                                Title                                |                                         Solution                                        |   Complexity   | Difficulty | Algorithm |
 |:-----:|:-------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:--------------:|:----------:|------|
+|  13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C](https://github.com/redefiningcuriosity/leetcode/blob/main/C/13_Roman_to_Integer.c) | Time: O(n)<br />Space: O(1) |    Easy    |     |
 |  14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C](https://github.com/redefiningcuriosity/leetcode/blob/main/C/14_Longest_Common_Prefix.c) | Time: O(n)<br />Space: O(n) |    Easy    |     |
 |  35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C](https://github.com/redefiningcuriosity/leetcode/blob/main/C/35_search_insert_position.c) | Time: O(log n)<br />Space: O(1) |    Easy    |  Binary Search   |
 |  118  | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) | [C](https://github.com/redefiningcuriosity/leetcode/blob/main/C/118_Pascals_triangle.c) | Time: O(R*C)<br />Space: O(R*C) |    Easy    |      |
