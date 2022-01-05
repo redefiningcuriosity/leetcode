@@ -24,6 +24,7 @@ Solutions to Leetcode problems
 ## Linked Lists
 |   #   |                                Title                                |                                         Solution                                        |   Complexity   | Difficulty | Algorithm |
 |:-----:|:-------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:--------------:|:----------:|------|
+|  19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C](https://github.com/redefiningcuriosity/leetcode/blob/main/C/19_Remove_Nth_Node_From_End.c) | Time: O(n)<br />Space: O(1) |    Medium    |  Recursion   |
 |  83  | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C](https://github.com/redefiningcuriosity/leetcode/blob/main/C/83_remove_duplicates_from_sorted_list.c) | Time: O(n)<br />Space: O(1) |    Easy    |  Recursion   |
 |  141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C](https://github.com/redefiningcuriosity/leetcode/blob/main/C/141_linked_list_cycle.c) | Time: O(n)<br />Space: O(1) |    Easy    |  Floyd's Circle Detection   |
 |  203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C](https://github.com/redefiningcuriosity/leetcode/blob/main/C/203_remove_linked_list_elements.c) | Time: O(n)<br />Space: O(1) |    Easy    |     |
